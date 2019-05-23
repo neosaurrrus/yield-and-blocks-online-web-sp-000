@@ -10,7 +10,7 @@ def hello_t(array)
       i = i + 1
     end
   array
- else 
+ else
    puts "hey! no blok was given!"
 end
 
